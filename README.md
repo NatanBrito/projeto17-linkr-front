@@ -1,4 +1,4 @@
-<h1>LINKR</h1>
+<h2>LINKR</h2>
 <h4>https://projeto17-linkr-front-jf7yney6k-lucasalvsz.vercel.app/sign-in</h4>
 
 <p align="center">
