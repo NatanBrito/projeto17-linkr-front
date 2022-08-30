@@ -1,6 +1,6 @@
-<link to="https://projeto17-linkr-front-jf7yney6k-lucasalvsz.vercel.app/sign-in">
 <h1 align="center">LINKR</h1>
-</link>
+<h4>https://projeto17-linkr-front-jf7yney6k-lucasalvsz.vercel.app/sign-in</h4>
+
 <p align="center">
 <img width=300px src="https://user-images.githubusercontent.com/97575616/176687293-738d5f37-20db-4c80-9762-1a79d4e75d2d.png" >
 </p>
